@@ -1,5 +1,7 @@
 # Calculadora de Emissão de CO₂ 🌿
 
+[🌐 Acesse a aplicação aqui](https://karinabarros.github.io/calculadora-co2/)
+
 Uma aplicação web interativa para calcular emissões de dióxido de carbono (CO₂) geradas por viagens entre cidades brasileiras, promovendo conscientização ambiental e sustentabilidade.
 
 ## 📋 Descrição
