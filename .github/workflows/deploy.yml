@@ -32,6 +32,8 @@ jobs:
       # Step 2: Setup GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v4
+        with:
+          enablement: github-actions
 
       # Step 3: Upload artifact with static files
       - name: Upload artifact
